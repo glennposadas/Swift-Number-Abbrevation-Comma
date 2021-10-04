@@ -3,6 +3,7 @@ Just a quick extension of Int for abbreviating with commas.
 
 Format a number and adjust based on the number of length: X / XX / XXX / X,XXXX / XX.Xk / XXX.xk / X.XM.
 
+```
 Input: -999 -> -999
 Input: -1284 -> -1284
 Input: 598 -> 598
@@ -17,3 +18,4 @@ Input: 999898 -> 1M
 Input: 999999 -> 1M
 Input: 1456384 -> 1.5M
 Input: 12383474 -> 12.4M
+```
